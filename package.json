@@ -1,0 +1,17 @@
+{
+  "scripts": {
+    "start": "node voxiccode.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "quick.db": "^7.1.2",
+    "discord.js": "^12.5.1",
+    "node-fetch": "^2.6.1",
+    "wio.db": "^4.0.15",
+    "moment": "^2.29.1",
+    "moment-duration-format": "^2.3.2"
+  },
+  "engines": {
+    "node": "12.x"
+  }
+}
